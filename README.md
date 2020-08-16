@@ -4,7 +4,7 @@ Hast du Angst über die Sicherheit deiner Daten bei öffentlichen Hostern? Nerve
 
 > Das NXTBOTS Team hat sich dazu entschieden jedem die Möglichkeit zu geben, selber seine Bots zu hosten und das auf einem gewohnten Interface. Was du hier bekommst, ist keine geklaute oder billig nachprogrammierte Version von SMNkakbots und zwar eine leicht endbugte und verbesserte version von NXTBots. Hier bekommst du die originale Version des SMNBOTS V1 Interfaces in der Hosting variante.
 
-# Instalation
+# Installation
 
 - Instaliere den [`TS3 Audiobot`](https://github.com/Splamy/TS3AudioBot#install) von Splamy
 - Lade alle Dateien aus dem `web` Ordner auf deinen Webserver hoch
